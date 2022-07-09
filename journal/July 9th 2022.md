@@ -9,3 +9,5 @@
 1. I will restart python with **4 month schedule, starting on July 10th 2022** 
 2. I'll just revise the basic modules 0-2 in cs50p
 3. Then after these basic modules are revised **I'll watch the lectures and do sample code**
+### Learning github markdown language
+- I will need to learn how to github md language my journal is getting plain.
